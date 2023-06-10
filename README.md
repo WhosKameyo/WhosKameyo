@@ -9,6 +9,8 @@
 
 - 🌱 J'apprends actuellement **Cadres liés à l'IA**
 
+- 📫 Comment me joindre **whoskameyo@naver.com**
+
 <h3 align="left">Connectez-vous avec moi</h3>
 <p align="left">
 <a href="https://dev.to/whoskameyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="whoskameyo" height="30" width="40" /></a>
