@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoskameyo&show_icons=true&theme=onedark&text_color=cd7f32&hide_border=true&locale=fr&layout=compact" alt="whoskameyo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoskameyo&show_icons=true&theme=onedark&text_color=cd7f32&locale=fr" alt="whoskameyo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoskameyo&theme=dark" alt="whoskameyo" /></p>
