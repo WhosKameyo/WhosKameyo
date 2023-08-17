@@ -25,7 +25,3 @@
 
 <h3 align="left">Soutenez-moi:</h3>
 <p><a href="https://ko-fi.com/kameyo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kameyo" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoskameyo&show_icons=true&theme=onedark&text_color=cd7f32&hide_border=true&locale=fr&layout=compact" alt="whoskameyo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoskameyo&show_icons=true&theme=onedark&text_color=cd7f32&locale=fr" alt="whoskameyo" /></p>
