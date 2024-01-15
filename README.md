@@ -6,7 +6,7 @@
     💻 system programming languages • devops 
     📖 software engineering • distributed systems
     🎮 music • manga • anime • code • art
-    🐾 Eli 🐇 • Macarons & Cream Puffs 🐤🐥
+    🐾 eli 🐇 • macarons & cream puffs 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/WhosKameyo/WhosKameyo/master/assets/kyubey.gif" height="40" />
