@@ -15,6 +15,5 @@
 <a href="https://discord.gg/nGuPMJE4NE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nGuPMJE4NE" height="30" width="40" /></a>
 <br><br>
 <img src="https://raw.githubusercontent.com/WhosKameyo/WhosKameyo/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
+
 </div>
