@@ -9,5 +9,7 @@
     🐾 eli 🐇 • macarons & cream puffs 🐤🐥
 </pre>
 <br><br><br>
+<img src="https://raw.githubusercontent.com/WhosKameyo/WhosKameyo/master/assets/kyubey.gif" height="40" />
+<br><br>
 
 </div>
