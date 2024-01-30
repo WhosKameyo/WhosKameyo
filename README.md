@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/WhosKameyo/WhosKameyo/blob/main/assets/Проект.png" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=223F6C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Salut!;Je+suis+Kameyo%2C+a+totally+stable+software+engineer!" width="70%" />
+    [![wakatime](https://wakatime.com/badge/user/018b9b05-c6c3-4805-9d6f-f6d493667bc3.svg)](https://wakatime.com/@kameyo)
 <br><br>
 <pre>
     💻 system programming languages • devops 
