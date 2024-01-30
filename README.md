@@ -15,6 +15,8 @@
 <a href="https://www.youtube.com/c/whoskameyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoskameyo" height="30" width="40" /></a>
 <a href="https://discord.gg/Rgdu8WcFtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rgdu8WcFtz" height="30" width="40" /></a>
 <br><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://raw.githubusercontent.com/WhosKameyo/WhosKameyo/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 </div>
